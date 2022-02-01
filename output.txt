@@ -1,0 +1,1720 @@
+0,10000001,Computer Printer (Printing),600,0.01,false,0.0
+1,10000001,Toaster,1000,0.01,false,0.0
+2,10000001,Fan,200,0.1,false,0.0
+3,10000001,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+4,10000001,Oven,5000,0.01,false,0.0
+5,10000001,DVD,60,0.167,false,0.0
+6,10000001,Telephone - Cordless,5,1.0,false,0.0
+7,10000001,Lighting - 100 Watt,100,0.33,false,0.0
+8,10000001,Slow Cooker,200,0.05,false,0.0
+9,10000001,Microwave Oven,1500,0.01,false,0.0
+10,10000001,Lighting - Halogen,90,0.33,false,0.0
+11,10000001,Television - 60 inch,240,0.167,false,0.0
+12,10000001,Fan,200,0.1,false,0.0
+13,10000001,Video Game,200,0.167,false,0.0
+14,10000001,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+15,10000001,Lawn Mower,3000,0.01,false,0.0
+16,10000001,Television - 36 inch,133,0.167,false,0.0
+17,10000001,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+18,10000002,Range - Small Surface Unit,1200,0.01,false,0.0
+19,10000002,Range - Small Surface Unit,1200,0.01,false,0.0
+20,10000002,Answering Machine,10,1.0,false,0.0
+21,10000002,Telephone - Cordless,5,1.0,false,0.0
+22,10000002,DVD,60,0.167,false,0.0
+23,10000002,Bug Killer,40,0.5,false,0.0
+24,10000002,Electric Frying Pan,1500,0.01,false,0.0
+25,10000002,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+26,10000002,Clock - Electric,3,1.0,false,0.0
+27,10000002,Clothes Dryer - Electric,5000,0.05,true,0.25
+28,10000002,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+29,10000002,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+30,10000002,Television/DVD/VCR Combination,120,0.167,false,0.0
+31,10000002,Toaster Oven,1500,0.05,false,0.0
+32,10000002,Vacuum - Regular,1440,0.01,false,0.0
+33,10000002,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+34,10000003,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+35,10000003,Slow Cooker,200,0.05,false,0.0
+36,10000003,Television - 13 inch,60,0.167,false,0.0
+37,10000003,Television - 55 inch,220,0.167,false,0.0
+38,10000003,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+39,10000003,Television - 27 inch,125,0.167,false,0.0
+40,10000003,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+41,10000003,Range - Large Surface Unit,2400,0.01,false,0.0
+42,10000003,Television 42' - 50' Projection,24,0.167,false,0.0
+43,10000003,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+44,10000003,Coffee Maker,900,0.01,false,0.0
+45,10000003,Answering Machine,10,1.0,false,0.0
+46,10000003,Laptop,75,0.25,true,0.5
+47,10000003,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+48,10000003,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+49,10000003,Television - 13 inch,60,0.167,false,0.0
+50,10000003,Iron,1100,0.01,false,0.0
+51,10000003,Television 42' - 50' Projection,24,0.167,false,0.0
+52,10000003,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+53,10000003,Television/DVD/VCR Combination,120,0.167,false,0.0
+54,10000004,Toaster,1000,0.01,false,0.0
+55,10000004,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+56,10000004,Vacuum - Regular,1440,0.01,false,0.0
+57,10000004,Oven,5000,0.01,false,0.0
+58,10000004,Lighting - 75 Watt,75,0.33,false,0.0
+59,10000004,Fish Tank (50 Gallon),230,1.0,false,0.0
+60,10000004,Lawn Mower,3000,0.01,false,0.0
+61,10000004,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+62,10000004,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+63,10000004,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+64,10000004,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+65,10000004,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+66,10000004,Telephone - Cordless,5,1.0,false,0.0
+67,10000004,Computer with Monitor,270,0.5,true,0.5
+68,10000004,Clothes Dryer - Electric,5000,0.05,true,0.25
+69,10000004,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+70,10000004,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+71,10000005,Hair Dryer (Hand Held),1500,0.01,true,0.25
+72,10000005,Television - 19 inch,100,0.167,false,0.0
+73,10000005,VCR,45,0.05,false,0.0
+74,10000005,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+75,10000005,Ceiling Fan w/o light,50,0.25,false,0.0
+76,10000005,Oven,5000,0.01,false,0.0
+77,10000005,Hair Dryer (Hand Held),1500,0.01,true,0.25
+78,10000005,Clock - Electric,3,1.0,false,0.0
+79,10000005,Television 42' - 50' Projection,24,0.167,false,0.0
+80,10000005,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+81,10000005,Range - Small Surface Unit,1200,0.01,false,0.0
+82,10000005,Coffee Maker,900,0.01,false,0.0
+83,10000005,Television Plasma 42' - 50',375,0.167,false,0.0
+84,10000005,Laptop,75,0.25,true,0.5
+85,10000005,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+86,10000005,Fax Machine,10,1.0,false,0.0
+87,10000006,Compactor (Trash),400,0.01,false,0.0
+88,10000006,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+89,10000006,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+90,10000006,Television - 55 inch,220,0.167,false,0.0
+91,10000006,Video Game,200,0.167,false,0.0
+92,10000006,Lighting - 40 Watt,40,0.33,false,0.0
+93,10000006,Television/DVD/VCR Combination,120,0.167,false,0.0
+94,10000006,DVD,60,0.167,false,0.0
+95,10000006,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+96,10000006,Television - 13 inch,60,0.167,false,0.0
+97,10000006,Toaster,1000,0.01,false,0.0
+98,10000006,Clock - Electric,3,1.0,false,0.0
+99,10000006,Clothes Dryer - Electric,5000,0.05,true,0.25
+100,10000006,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+101,10000006,Fan,200,0.1,false,0.0
+102,10000006,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+103,10000006,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+104,10000006,Coffee Maker,900,0.01,false,0.0
+105,10000006,Oven,5000,0.01,false,0.0
+106,10000006,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+107,10000007,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+108,10000007,Television - 32 inch,130,0.167,false,0.0
+109,10000007,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+110,10000007,Lawn Mower,3000,0.01,false,0.0
+111,10000007,Laptop,75,0.25,true,0.5
+112,10000007,Television - 32 inch,130,0.167,false,0.0
+113,10000007,Television - 43 inch,200,0.167,false,0.0
+114,10000007,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+115,10000007,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+116,10000007,Range - Small Surface Unit,1200,0.01,false,0.0
+117,10000007,VCR,45,0.05,false,0.0
+118,10000007,Television - 27 inch,125,0.167,false,0.0
+119,10000007,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+120,10000007,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+121,10000007,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+122,10000007,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+123,10000008,Bug Killer,40,0.5,false,0.0
+124,10000008,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+125,10000008,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+126,10000008,Video Game,200,0.167,false,0.0
+127,10000008,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+128,10000008,Video Game,200,0.167,false,0.0
+129,10000008,Electric Frying Pan,1500,0.01,false,0.0
+130,10000008,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+131,10000008,Lighting - 60 Watt,60,0.33,false,0.0
+132,10000008,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+133,10000008,Fish Tank (10 Gallon),80,1.0,false,0.0
+134,10000008,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+135,10000008,Range - Small Surface Unit,1200,0.01,false,0.0
+136,10000008,Fan (Window),200,0.25,false,0.0
+137,10000008,Stereo,75,0.25,false,0.0
+138,10000009,Lighting - 75 Watt,75,0.33,false,0.0
+139,10000009,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+140,10000009,Fan (Window),200,0.25,false,0.0
+141,10000009,Television - 36 inch,133,0.167,false,0.0
+142,10000009,Lighting - 60 Watt,60,0.33,false,0.0
+143,10000009,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+144,10000009,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+145,10000009,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+146,10000009,Toaster,1000,0.01,false,0.0
+147,10000009,Television - 32 inch,130,0.167,false,0.0
+148,10000009,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+149,10000009,Television - 32 inch,130,0.167,false,0.0
+150,10000009,Clothes Dryer - Electric,5000,0.05,true,0.25
+151,10000009,Fish Tank (10 Gallon),80,1.0,false,0.0
+152,10000009,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+153,10000009,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+154,10000010,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+155,10000010,Television - 19 inch,100,0.167,false,0.0
+156,10000010,Bug Killer,40,0.5,false,0.0
+157,10000010,Telephone - Cordless,5,1.0,false,0.0
+158,10000010,Coffee Maker,900,0.01,false,0.0
+159,10000010,Compactor (Trash),400,0.01,false,0.0
+160,10000010,VCR,45,0.05,false,0.0
+161,10000010,Coffee Maker,900,0.01,false,0.0
+162,10000010,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+163,10000010,Range - Large Surface Unit,2400,0.01,false,0.0
+164,10000010,Video Game,200,0.167,false,0.0
+165,10000010,Television - 55 inch,220,0.167,false,0.0
+166,10000010,Television - 60 inch,240,0.167,false,0.0
+167,10000010,Telephone - Cordless,5,1.0,false,0.0
+168,10000010,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+169,10000010,Range - Large Surface Unit,2400,0.01,false,0.0
+170,10000010,Clothes Dryer - Electric,5000,0.05,true,0.25
+171,10000010,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+172,10000011,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+173,10000011,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+174,10000011,Fan,200,0.1,false,0.0
+175,10000011,Clothes Dryer - Electric,5000,0.05,true,0.25
+176,10000011,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+177,10000011,Slow Cooker,200,0.05,false,0.0
+178,10000011,Air Purifier,120,1.0,true,0.5
+179,10000011,Microwave Oven,1500,0.01,false,0.0
+180,10000011,Fan (Attic),500,0.1,true,0.25
+181,10000011,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+182,10000011,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+183,10000011,Lighting - 40 Watt,40,0.33,false,0.0
+184,10000011,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+185,10000011,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+186,10000011,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+187,10000011,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+188,10000012,Fish Tank (10 Gallon),80,1.0,false,0.0
+189,10000012,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+190,10000012,Video Game,200,0.167,false,0.0
+191,10000012,Television/DVD/VCR Combination,120,0.167,false,0.0
+192,10000012,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+193,10000012,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+194,10000012,Ceiling Fan w/o light,50,0.25,false,0.0
+195,10000012,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+196,10000012,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+197,10000012,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+198,10000012,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+199,10000012,Hair Dryer (Hand Held),1500,0.01,true,0.25
+200,10000012,Computer Printer (Printing),600,0.01,false,0.0
+201,10000012,Fax Machine,10,1.0,false,0.0
+202,10000012,Range - Large Surface Unit,2400,0.01,false,0.0
+203,10000012,Computer Printer (Printing),600,0.01,false,0.0
+204,10000013,Video Game,200,0.167,false,0.0
+205,10000013,Fax Machine,10,1.0,false,0.0
+206,10000013,Fan (Window),200,0.25,false,0.0
+207,10000013,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+208,10000013,Lighting - Halogen,90,0.33,false,0.0
+209,10000013,Computer Printer (Printing),600,0.01,false,0.0
+210,10000013,Television - 60 inch,240,0.167,false,0.0
+211,10000013,DVD,60,0.167,false,0.0
+212,10000013,VCR,45,0.05,false,0.0
+213,10000013,Microwave Oven,1500,0.01,false,0.0
+214,10000013,Electric Frying Pan,1500,0.01,false,0.0
+215,10000013,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+216,10000013,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+217,10000013,Bug Killer,40,0.5,false,0.0
+218,10000013,Fax Machine,10,1.0,false,0.0
+219,10000013,Compactor (Trash),400,0.01,false,0.0
+220,10000013,Clothes Washer,1200,0.025,true,0.25
+221,10000013,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+222,10000013,Television - 13 inch,60,0.167,false,0.0
+223,10000013,Lighting - 100 Watt,100,0.33,false,0.0
+224,10000014,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+225,10000014,Lighting - 100 Watt,100,0.33,false,0.0
+226,10000014,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+227,10000014,Clothes Washer,1200,0.025,true,0.25
+228,10000014,Coffee Maker,900,0.01,false,0.0
+229,10000014,Television - 43 inch,200,0.167,false,0.0
+230,10000014,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+231,10000014,Computer with Monitor,270,0.5,true,0.5
+232,10000014,Air Purifier,120,1.0,true,0.5
+233,10000014,Hair Dryer (Hand Held),1500,0.01,true,0.25
+234,10000014,Answering Machine,10,1.0,false,0.0
+235,10000014,Air Purifier,120,1.0,true,0.5
+236,10000014,Television 42' - 50' Projection,24,0.167,false,0.0
+237,10000014,Range - Large Surface Unit,2400,0.01,false,0.0
+238,10000014,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+239,10000015,Lawn Mower,3000,0.01,false,0.0
+240,10000015,Television - 36 inch,133,0.167,false,0.0
+241,10000015,Television - 36 inch,133,0.167,false,0.0
+242,10000015,Television - 36 inch,133,0.167,false,0.0
+243,10000015,Television - 32 inch,130,0.167,false,0.0
+244,10000015,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+245,10000015,Clothes Dryer - Electric,5000,0.05,true,0.25
+246,10000015,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+247,10000015,VCR,45,0.05,false,0.0
+248,10000015,Television - 36 inch,133,0.167,false,0.0
+249,10000015,Toaster Oven,1500,0.05,false,0.0
+250,10000015,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+251,10000015,Hair Dryer (Hand Held),1500,0.01,true,0.25
+252,10000015,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+253,10000015,Coffee Maker,900,0.01,false,0.0
+254,10000016,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+255,10000016,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+256,10000016,Stereo,75,0.25,false,0.0
+257,10000016,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+258,10000016,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+259,10000016,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+260,10000016,Vacuum - Regular,1440,0.01,false,0.0
+261,10000016,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+262,10000016,Oven,5000,0.01,false,0.0
+263,10000016,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+264,10000016,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+265,10000016,Clothes Washer,1200,0.025,true,0.25
+266,10000016,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+267,10000016,Fish Tank (50 Gallon),230,1.0,false,0.0
+268,10000016,Television - 55 inch,220,0.167,false,0.0
+269,10000016,Electric Frying Pan,1500,0.01,false,0.0
+270,10000017,Television 42' - 50' Projection,24,0.167,false,0.0
+271,10000017,Lighting - Halogen,90,0.33,false,0.0
+272,10000017,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+273,10000017,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+274,10000017,DVD,60,0.167,false,0.0
+275,10000017,Clothes Washer,1200,0.025,true,0.25
+276,10000017,Fan (Attic),500,0.1,true,0.25
+277,10000017,DVD,60,0.167,false,0.0
+278,10000017,Lighting - Halogen,90,0.33,false,0.0
+279,10000017,Microwave Oven,1500,0.01,false,0.0
+280,10000017,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+281,10000017,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+282,10000017,Stereo,75,0.25,false,0.0
+283,10000017,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+284,10000017,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+285,10000017,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+286,10000018,Microwave Oven,1500,0.01,false,0.0
+287,10000018,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+288,10000018,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+289,10000018,Fan (Window),200,0.25,false,0.0
+290,10000018,Compactor (Trash),400,0.01,false,0.0
+291,10000018,VCR,45,0.05,false,0.0
+292,10000018,Fax Machine,10,1.0,false,0.0
+293,10000018,Hair Dryer (Hand Held),1500,0.01,true,0.25
+294,10000018,Air Purifier,120,1.0,true,0.5
+295,10000018,Range - Small Surface Unit,1200,0.01,false,0.0
+296,10000018,Compactor (Trash),400,0.01,false,0.0
+297,10000018,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+298,10000018,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+299,10000018,Clothes Dryer - Electric,5000,0.05,true,0.25
+300,10000018,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+301,10000019,Ceiling Fan w/o light,50,0.25,false,0.0
+302,10000019,Fax Machine,10,1.0,false,0.0
+303,10000019,Television - 60 inch,240,0.167,false,0.0
+304,10000019,Computer with Monitor,270,0.5,true,0.5
+305,10000019,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+306,10000019,DVD,60,0.167,false,0.0
+307,10000019,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+308,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+309,10000019,Television - 13 inch,60,0.167,false,0.0
+310,10000019,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+311,10000019,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+312,10000019,Television - 36 inch,133,0.167,false,0.0
+313,10000019,Toaster,1000,0.01,false,0.0
+314,10000019,Compactor (Trash),400,0.01,false,0.0
+315,10000019,Air Purifier,120,1.0,true,0.5
+316,10000019,Toaster Oven,1500,0.05,false,0.0
+317,10000019,Answering Machine,10,1.0,false,0.0
+318,10000019,Television/DVD/VCR Combination,120,0.167,false,0.0
+319,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+320,10000020,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+321,10000020,Stereo,75,0.25,false,0.0
+322,10000020,Clock - Electric,3,1.0,false,0.0
+323,10000020,Television - 27 inch,125,0.167,false,0.0
+324,10000020,Television - 55 inch,220,0.167,false,0.0
+325,10000020,Computer with Monitor,270,0.5,true,0.5
+326,10000020,Answering Machine,10,1.0,false,0.0
+327,10000020,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+328,10000020,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+329,10000020,Television - 60 inch,240,0.167,false,0.0
+330,10000020,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+331,10000020,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+332,10000020,Stereo,75,0.25,false,0.0
+333,10000020,Lighting - 60 Watt,60,0.33,false,0.0
+334,10000020,Television - 43 inch,200,0.167,false,0.0
+335,10000020,Iron,1100,0.01,false,0.0
+336,10000020,Coffee Maker,900,0.01,false,0.0
+337,10000020,Vacuum - Regular,1440,0.01,false,0.0
+338,10000021,Television - 36 inch,133,0.167,false,0.0
+339,10000021,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+340,10000021,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+341,10000021,Lighting - 75 Watt,75,0.33,false,0.0
+342,10000021,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+343,10000021,Toaster Oven,1500,0.05,false,0.0
+344,10000021,Lighting - 60 Watt,60,0.33,false,0.0
+345,10000021,Television - 60 inch,240,0.167,false,0.0
+346,10000021,Lighting - Halogen,90,0.33,false,0.0
+347,10000021,Lighting - Halogen,90,0.33,false,0.0
+348,10000021,Laptop,75,0.25,true,0.5
+349,10000021,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+350,10000021,Fan,200,0.1,false,0.0
+351,10000021,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+352,10000021,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+353,10000021,Range - Large Surface Unit,2400,0.01,false,0.0
+354,10000021,Television - 27 inch,125,0.167,false,0.0
+355,10000021,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+356,10000021,Fish Tank (10 Gallon),80,1.0,false,0.0
+357,10000022,Computer Printer (Printing),600,0.01,false,0.0
+358,10000022,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+359,10000022,Hair Dryer (Hand Held),1500,0.01,true,0.25
+360,10000022,Television - 27 inch,125,0.167,false,0.0
+361,10000022,Lighting - 60 Watt,60,0.33,false,0.0
+362,10000022,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+363,10000022,Television Plasma 42' - 50',375,0.167,false,0.0
+364,10000022,Computer Printer (Printing),600,0.01,false,0.0
+365,10000022,Fish Tank (50 Gallon),230,1.0,false,0.0
+366,10000022,Television/DVD/VCR Combination,120,0.167,false,0.0
+367,10000022,Lawn Mower,3000,0.01,false,0.0
+368,10000022,Clock - Electric,3,1.0,false,0.0
+369,10000022,Clock - Electric,3,1.0,false,0.0
+370,10000022,Television Plasma 42' - 50',375,0.167,false,0.0
+371,10000022,Electric Frying Pan,1500,0.01,false,0.0
+372,10000022,Telephone - Cordless,5,1.0,false,0.0
+373,10000022,Lighting - 60 Watt,60,0.33,false,0.0
+374,10000022,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+375,10000023,Clock - Electric,3,1.0,false,0.0
+376,10000023,Answering Machine,10,1.0,false,0.0
+377,10000023,Lighting - 60 Watt,60,0.33,false,0.0
+378,10000023,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+379,10000023,Television/DVD/VCR Combination,120,0.167,false,0.0
+380,10000023,Fish Tank (10 Gallon),80,1.0,false,0.0
+381,10000023,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+382,10000023,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+383,10000023,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+384,10000023,Microwave Oven,1500,0.01,false,0.0
+385,10000023,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+386,10000023,Lighting - Halogen,90,0.33,false,0.0
+387,10000023,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+388,10000023,Oven,5000,0.01,false,0.0
+389,10000023,Toaster,1000,0.01,false,0.0
+390,10000023,Hair Dryer (Hand Held),1500,0.01,true,0.25
+391,10000023,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+392,10000023,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+393,10000023,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+394,10000023,Laptop,75,0.25,true,0.5
+395,10000024,Television Plasma 42' - 50',375,0.167,false,0.0
+396,10000024,Fan (Attic),500,0.1,true,0.25
+397,10000024,Clock - Electric,3,1.0,false,0.0
+398,10000024,Hair Dryer (Hand Held),1500,0.01,true,0.25
+399,10000024,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+400,10000024,Toaster,1000,0.01,false,0.0
+401,10000024,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+402,10000024,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+403,10000024,Television/DVD/VCR Combination,120,0.167,false,0.0
+404,10000024,Lighting - 40 Watt,40,0.33,false,0.0
+405,10000024,Television/DVD/VCR Combination,120,0.167,false,0.0
+406,10000024,Lighting - 60 Watt,60,0.33,false,0.0
+407,10000024,Hair Dryer (Hand Held),1500,0.01,true,0.25
+408,10000024,Answering Machine,10,1.0,false,0.0
+409,10000024,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+410,10000025,Television - 36 inch,133,0.167,false,0.0
+411,10000025,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+412,10000025,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+413,10000025,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+414,10000025,Television - 19 inch,100,0.167,false,0.0
+415,10000025,Oven,5000,0.01,false,0.0
+416,10000025,Television - 13 inch,60,0.167,false,0.0
+417,10000025,Video Game,200,0.167,false,0.0
+418,10000025,Laptop,75,0.25,true,0.5
+419,10000025,Iron,1100,0.01,false,0.0
+420,10000025,Iron,1100,0.01,false,0.0
+421,10000025,Range - Small Surface Unit,1200,0.01,false,0.0
+422,10000025,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+423,10000025,VCR,45,0.05,false,0.0
+424,10000025,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+425,10000025,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+426,10000025,DVD,60,0.167,false,0.0
+427,10000025,Lighting - 100 Watt,100,0.33,false,0.0
+428,10000026,Stereo,75,0.25,false,0.0
+429,10000026,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+430,10000026,Toaster,1000,0.01,false,0.0
+431,10000026,Television/DVD/VCR Combination,120,0.167,false,0.0
+432,10000026,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+433,10000026,Range - Small Surface Unit,1200,0.01,false,0.0
+434,10000026,Answering Machine,10,1.0,false,0.0
+435,10000026,Clothes Washer,1200,0.025,true,0.25
+436,10000026,Slow Cooker,200,0.05,false,0.0
+437,10000026,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+438,10000026,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+439,10000026,Television - 43 inch,200,0.167,false,0.0
+440,10000026,Computer with Monitor,270,0.5,true,0.5
+441,10000026,Microwave Oven,1500,0.01,false,0.0
+442,10000026,Clothes Washer,1200,0.025,true,0.25
+443,10000026,Fan (Window),200,0.25,false,0.0
+444,10000027,Fan (Attic),500,0.1,true,0.25
+445,10000027,Range - Small Surface Unit,1200,0.01,false,0.0
+446,10000027,Lighting - 75 Watt,75,0.33,false,0.0
+447,10000027,Vacuum - Regular,1440,0.01,false,0.0
+448,10000027,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+449,10000027,Coffee Maker,900,0.01,false,0.0
+450,10000027,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+451,10000027,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+452,10000027,Fax Machine,10,1.0,false,0.0
+453,10000027,Compactor (Trash),400,0.01,false,0.0
+454,10000027,Vacuum - Regular,1440,0.01,false,0.0
+455,10000027,Television - 19 inch,100,0.167,false,0.0
+456,10000027,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+457,10000027,Television - 43 inch,200,0.167,false,0.0
+458,10000027,Television/DVD/VCR Combination,120,0.167,false,0.0
+459,10000028,Air Purifier,120,1.0,true,0.5
+460,10000028,Television Plasma 42' - 50',375,0.167,false,0.0
+461,10000028,Toaster,1000,0.01,false,0.0
+462,10000028,Lighting - 75 Watt,75,0.33,false,0.0
+463,10000028,Iron,1100,0.01,false,0.0
+464,10000028,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+465,10000028,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+466,10000028,Television - 32 inch,130,0.167,false,0.0
+467,10000028,Vacuum - Regular,1440,0.01,false,0.0
+468,10000028,Microwave Oven,1500,0.01,false,0.0
+469,10000028,Television - 27 inch,125,0.167,false,0.0
+470,10000028,Television - 19 inch,100,0.167,false,0.0
+471,10000028,Television - 43 inch,200,0.167,false,0.0
+472,10000028,Fish Tank (10 Gallon),80,1.0,false,0.0
+473,10000028,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+474,10000028,Fan,200,0.1,false,0.0
+475,10000029,Fan (Window),200,0.25,false,0.0
+476,10000029,Television - 32 inch,130,0.167,false,0.0
+477,10000029,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+478,10000029,Television - 36 inch,133,0.167,false,0.0
+479,10000029,Fax Machine,10,1.0,false,0.0
+480,10000029,Fan,200,0.1,false,0.0
+481,10000029,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+482,10000029,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+483,10000029,Lighting - Halogen,90,0.33,false,0.0
+484,10000029,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+485,10000029,Television - 43 inch,200,0.167,false,0.0
+486,10000029,Television/DVD/VCR Combination,120,0.167,false,0.0
+487,10000029,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+488,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+489,10000029,Range - Small Surface Unit,1200,0.01,false,0.0
+490,10000030,Fish Tank (50 Gallon),230,1.0,false,0.0
+491,10000030,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+492,10000030,Television - 55 inch,220,0.167,false,0.0
+493,10000030,Electric Frying Pan,1500,0.01,false,0.0
+494,10000030,Stereo,75,0.25,false,0.0
+495,10000030,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+496,10000030,Lighting - Halogen,90,0.33,false,0.0
+497,10000030,Fish Tank (50 Gallon),230,1.0,false,0.0
+498,10000030,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+499,10000030,Hair Dryer (Hand Held),1500,0.01,true,0.25
+500,10000030,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+501,10000030,Computer Printer (Printing),600,0.01,false,0.0
+502,10000030,Clothes Dryer - Electric,5000,0.05,true,0.25
+503,10000030,Bug Killer,40,0.5,false,0.0
+504,10000030,Television - 60 inch,240,0.167,false,0.0
+505,10000030,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+506,10000030,Vacuum - Regular,1440,0.01,false,0.0
+507,10000030,Lighting - 100 Watt,100,0.33,false,0.0
+508,10000031,Electric Frying Pan,1500,0.01,false,0.0
+509,10000031,Lighting - Halogen,90,0.33,false,0.0
+510,10000031,Lighting - 40 Watt,40,0.33,false,0.0
+511,10000031,Air Purifier,120,1.0,true,0.5
+512,10000031,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+513,10000031,Clothes Washer,1200,0.025,true,0.25
+514,10000031,Television - 25 inch,123,0.167,false,0.0
+515,10000031,Fish Tank (10 Gallon),80,1.0,false,0.0
+516,10000031,Lighting - 75 Watt,75,0.33,false,0.0
+517,10000031,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+518,10000031,Television Plasma 42' - 50',375,0.167,false,0.0
+519,10000031,Fax Machine,10,1.0,false,0.0
+520,10000031,Fish Tank (10 Gallon),80,1.0,false,0.0
+521,10000031,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+522,10000031,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+523,10000032,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+524,10000032,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+525,10000032,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+526,10000032,Range - Small Surface Unit,1200,0.01,false,0.0
+527,10000032,Fish Tank (10 Gallon),80,1.0,false,0.0
+528,10000032,Television - 25 inch,123,0.167,false,0.0
+529,10000032,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+530,10000032,Television - 36 inch,133,0.167,false,0.0
+531,10000032,Television - 36 inch,133,0.167,false,0.0
+532,10000032,Computer with Monitor,270,0.5,true,0.5
+533,10000032,Iron,1100,0.01,false,0.0
+534,10000032,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+535,10000032,Video Game,200,0.167,false,0.0
+536,10000032,Ceiling Fan w/o light,50,0.25,false,0.0
+537,10000032,Stereo,75,0.25,false,0.0
+538,10000032,Lighting - Halogen,90,0.33,false,0.0
+539,10000033,Lighting - 100 Watt,100,0.33,false,0.0
+540,10000033,DVD,60,0.167,false,0.0
+541,10000033,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+542,10000033,Television - 19 inch,100,0.167,false,0.0
+543,10000033,Laptop,75,0.25,true,0.5
+544,10000033,DVD,60,0.167,false,0.0
+545,10000033,Compactor (Trash),400,0.01,false,0.0
+546,10000033,Lighting - Halogen,90,0.33,false,0.0
+547,10000033,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+548,10000033,Television - 13 inch,60,0.167,false,0.0
+549,10000033,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+550,10000033,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+551,10000033,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+552,10000033,Television - 25 inch,123,0.167,false,0.0
+553,10000033,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+554,10000033,Fish Tank (10 Gallon),80,1.0,false,0.0
+555,10000033,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+556,10000033,Lighting - Halogen,90,0.33,false,0.0
+557,10000034,Television - 55 inch,220,0.167,false,0.0
+558,10000034,Range - Small Surface Unit,1200,0.01,false,0.0
+559,10000034,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+560,10000034,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+561,10000034,Clothes Dryer - Electric,5000,0.05,true,0.25
+562,10000034,Television - 13 inch,60,0.167,false,0.0
+563,10000034,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+564,10000034,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+565,10000034,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+566,10000034,Hair Dryer (Hand Held),1500,0.01,true,0.25
+567,10000034,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+568,10000034,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+569,10000034,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+570,10000034,Lighting - 40 Watt,40,0.33,false,0.0
+571,10000034,Television 42' - 50' Projection,24,0.167,false,0.0
+572,10000034,Telephone - Cordless,5,1.0,false,0.0
+573,10000034,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+574,10000034,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+575,10000035,Slow Cooker,200,0.05,false,0.0
+576,10000035,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+577,10000035,Television Plasma 42' - 50',375,0.167,false,0.0
+578,10000035,Computer Printer (Printing),600,0.01,false,0.0
+579,10000035,Television - 19 inch,100,0.167,false,0.0
+580,10000035,Iron,1100,0.01,false,0.0
+581,10000035,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+582,10000035,Electric Frying Pan,1500,0.01,false,0.0
+583,10000035,Computer with Monitor,270,0.5,true,0.5
+584,10000035,Television Plasma 42' - 50',375,0.167,false,0.0
+585,10000035,Hair Dryer (Hand Held),1500,0.01,true,0.25
+586,10000035,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+587,10000035,Lawn Mower,3000,0.01,false,0.0
+588,10000035,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+589,10000035,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+590,10000035,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+591,10000035,Computer Printer (Printing),600,0.01,false,0.0
+592,10000035,Computer with Monitor,270,0.5,true,0.5
+593,10000035,Lighting - 40 Watt,40,0.33,false,0.0
+594,10000035,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+595,10000036,Television/DVD/VCR Combination,120,0.167,false,0.0
+596,10000036,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+597,10000036,Vacuum - Regular,1440,0.01,false,0.0
+598,10000036,Television Plasma 42' - 50',375,0.167,false,0.0
+599,10000036,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+600,10000036,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+601,10000036,Clock - Electric,3,1.0,false,0.0
+602,10000036,Iron,1100,0.01,false,0.0
+603,10000036,Fan (Attic),500,0.1,true,0.25
+604,10000036,Lighting - 60 Watt,60,0.33,false,0.0
+605,10000036,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+606,10000036,Television 42' - 50' Projection,24,0.167,false,0.0
+607,10000036,Fish Tank (10 Gallon),80,1.0,false,0.0
+608,10000036,DVD,60,0.167,false,0.0
+609,10000036,Television - 25 inch,123,0.167,false,0.0
+610,10000036,DVD,60,0.167,false,0.0
+611,10000037,Lighting - 75 Watt,75,0.33,false,0.0
+612,10000037,Telephone - Cordless,5,1.0,false,0.0
+613,10000037,Lighting - 100 Watt,100,0.33,false,0.0
+614,10000037,Toaster Oven,1500,0.05,false,0.0
+615,10000037,Video Game,200,0.167,false,0.0
+616,10000037,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+617,10000037,Ceiling Fan w/o light,50,0.25,false,0.0
+618,10000037,Television/DVD/VCR Combination,120,0.167,false,0.0
+619,10000037,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+620,10000037,Television Plasma 42' - 50',375,0.167,false,0.0
+621,10000037,Lighting - 100 Watt,100,0.33,false,0.0
+622,10000037,Television - 19 inch,100,0.167,false,0.0
+623,10000037,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+624,10000037,Bug Killer,40,0.5,false,0.0
+625,10000037,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+626,10000037,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+627,10000037,Computer with Monitor,270,0.5,true,0.5
+628,10000037,Stereo,75,0.25,false,0.0
+629,10000038,Oven,5000,0.01,false,0.0
+630,10000038,Clothes Washer,1200,0.025,true,0.25
+631,10000038,Television - 13 inch,60,0.167,false,0.0
+632,10000038,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+633,10000038,Stereo,75,0.25,false,0.0
+634,10000038,Toaster Oven,1500,0.05,false,0.0
+635,10000038,Microwave Oven,1500,0.01,false,0.0
+636,10000038,Clothes Dryer - Electric,5000,0.05,true,0.25
+637,10000038,Television/DVD/VCR Combination,120,0.167,false,0.0
+638,10000038,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+639,10000038,Answering Machine,10,1.0,false,0.0
+640,10000038,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+641,10000038,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+642,10000038,Television - 13 inch,60,0.167,false,0.0
+643,10000038,Slow Cooker,200,0.05,false,0.0
+644,10000038,Television 42' - 50' Projection,24,0.167,false,0.0
+645,10000038,Lawn Mower,3000,0.01,false,0.0
+646,10000039,Range - Small Surface Unit,1200,0.01,false,0.0
+647,10000039,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+648,10000039,Toaster,1000,0.01,false,0.0
+649,10000039,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+650,10000039,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+651,10000039,Television 42' - 50' Projection,24,0.167,false,0.0
+652,10000039,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+653,10000039,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+654,10000039,Oven,5000,0.01,false,0.0
+655,10000039,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+656,10000039,Television - 55 inch,220,0.167,false,0.0
+657,10000039,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+658,10000039,Lighting - 100 Watt,100,0.33,false,0.0
+659,10000039,Television Plasma 42' - 50',375,0.167,false,0.0
+660,10000039,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+661,10000039,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+662,10000039,Toaster,1000,0.01,false,0.0
+663,10000039,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+664,10000039,Lighting - 100 Watt,100,0.33,false,0.0
+665,10000040,Television - 55 inch,220,0.167,false,0.0
+666,10000040,Compactor (Trash),400,0.01,false,0.0
+667,10000040,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+668,10000040,Toaster Oven,1500,0.05,false,0.0
+669,10000040,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+670,10000040,Answering Machine,10,1.0,false,0.0
+671,10000040,Fish Tank (10 Gallon),80,1.0,false,0.0
+672,10000040,Slow Cooker,200,0.05,false,0.0
+673,10000040,Fish Tank (50 Gallon),230,1.0,false,0.0
+674,10000040,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+675,10000040,Fish Tank (50 Gallon),230,1.0,false,0.0
+676,10000040,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+677,10000040,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+678,10000040,Fish Tank (10 Gallon),80,1.0,false,0.0
+679,10000040,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+680,10000040,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+681,10000040,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+682,10000041,VCR,45,0.05,false,0.0
+683,10000041,Ceiling Fan w/o light,50,0.25,false,0.0
+684,10000041,Coffee Maker,900,0.01,false,0.0
+685,10000041,DVD,60,0.167,false,0.0
+686,10000041,Slow Cooker,200,0.05,false,0.0
+687,10000041,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+688,10000041,Fish Tank (10 Gallon),80,1.0,false,0.0
+689,10000041,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+690,10000041,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+691,10000041,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+692,10000041,Fish Tank (10 Gallon),80,1.0,false,0.0
+693,10000041,Bug Killer,40,0.5,false,0.0
+694,10000041,Air Purifier,120,1.0,true,0.5
+695,10000041,Ceiling Fan w/o light,50,0.25,false,0.0
+696,10000041,Fish Tank (10 Gallon),80,1.0,false,0.0
+697,10000041,Television - 55 inch,220,0.167,false,0.0
+698,10000041,Microwave Oven,1500,0.01,false,0.0
+699,10000041,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+700,10000042,DVD,60,0.167,false,0.0
+701,10000042,Lighting - 40 Watt,40,0.33,false,0.0
+702,10000042,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+703,10000042,Coffee Maker,900,0.01,false,0.0
+704,10000042,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+705,10000042,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+706,10000042,Television - 32 inch,130,0.167,false,0.0
+707,10000042,Clock - Electric,3,1.0,false,0.0
+708,10000042,Computer Printer (Printing),600,0.01,false,0.0
+709,10000042,Coffee Maker,900,0.01,false,0.0
+710,10000042,Television/DVD/VCR Combination,120,0.167,false,0.0
+711,10000042,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+712,10000042,Stereo,75,0.25,false,0.0
+713,10000042,Iron,1100,0.01,false,0.0
+714,10000042,Fan,200,0.1,false,0.0
+715,10000042,Fax Machine,10,1.0,false,0.0
+716,10000042,Fish Tank (50 Gallon),230,1.0,false,0.0
+717,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+718,10000042,VCR,45,0.05,false,0.0
+719,10000043,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+720,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+721,10000043,DVD,60,0.167,false,0.0
+722,10000043,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+723,10000043,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+724,10000043,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+725,10000043,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+726,10000043,Television - 19 inch,100,0.167,false,0.0
+727,10000043,Fish Tank (50 Gallon),230,1.0,false,0.0
+728,10000043,Air Purifier,120,1.0,true,0.5
+729,10000043,Clothes Dryer - Electric,5000,0.05,true,0.25
+730,10000043,Hair Dryer (Hand Held),1500,0.01,true,0.25
+731,10000043,Television - 36 inch,133,0.167,false,0.0
+732,10000043,Clock - Electric,3,1.0,false,0.0
+733,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+734,10000043,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+735,10000043,Television Plasma 42' - 50',375,0.167,false,0.0
+736,10000044,Vacuum - Regular,1440,0.01,false,0.0
+737,10000044,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+738,10000044,Lawn Mower,3000,0.01,false,0.0
+739,10000044,Television - 32 inch,130,0.167,false,0.0
+740,10000044,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+741,10000044,Answering Machine,10,1.0,false,0.0
+742,10000044,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+743,10000044,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+744,10000044,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+745,10000044,Toaster Oven,1500,0.05,false,0.0
+746,10000044,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+747,10000044,Microwave Oven,1500,0.01,false,0.0
+748,10000044,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+749,10000044,Electric Frying Pan,1500,0.01,false,0.0
+750,10000044,Toaster,1000,0.01,false,0.0
+751,10000044,Compactor (Trash),400,0.01,false,0.0
+752,10000044,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+753,10000044,Computer Printer (Printing),600,0.01,false,0.0
+754,10000044,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+755,10000045,Television - 19 inch,100,0.167,false,0.0
+756,10000045,Television/DVD/VCR Combination,120,0.167,false,0.0
+757,10000045,Television Plasma 42' - 50',375,0.167,false,0.0
+758,10000045,Ceiling Fan w/o light,50,0.25,false,0.0
+759,10000045,Coffee Maker,900,0.01,false,0.0
+760,10000045,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+761,10000045,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+762,10000045,Computer with Monitor,270,0.5,true,0.5
+763,10000045,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+764,10000045,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+765,10000045,Stereo,75,0.25,false,0.0
+766,10000045,Hair Dryer (Hand Held),1500,0.01,true,0.25
+767,10000045,Lighting - 75 Watt,75,0.33,false,0.0
+768,10000045,Television/DVD/VCR Combination,120,0.167,false,0.0
+769,10000045,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+770,10000045,VCR,45,0.05,false,0.0
+771,10000045,Clock - Electric,3,1.0,false,0.0
+772,10000045,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+773,10000045,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+774,10000045,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+775,10000046,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+776,10000046,Laptop,75,0.25,true,0.5
+777,10000046,Computer Printer (Printing),600,0.01,false,0.0
+778,10000046,Television - 60 inch,240,0.167,false,0.0
+779,10000046,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+780,10000046,VCR,45,0.05,false,0.0
+781,10000046,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+782,10000046,Toaster,1000,0.01,false,0.0
+783,10000046,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+784,10000046,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+785,10000046,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+786,10000046,Toaster Oven,1500,0.05,false,0.0
+787,10000046,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+788,10000046,Clothes Washer,1200,0.025,true,0.25
+789,10000046,Television - 55 inch,220,0.167,false,0.0
+790,10000046,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+791,10000047,Computer Printer (Printing),600,0.01,false,0.0
+792,10000047,Computer with Monitor,270,0.5,true,0.5
+793,10000047,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+794,10000047,Range - Large Surface Unit,2400,0.01,false,0.0
+795,10000047,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+796,10000047,Lighting - 40 Watt,40,0.33,false,0.0
+797,10000047,Vacuum - Regular,1440,0.01,false,0.0
+798,10000047,Television - 43 inch,200,0.167,false,0.0
+799,10000047,Clock - Electric,3,1.0,false,0.0
+800,10000047,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+801,10000047,Television - 19 inch,100,0.167,false,0.0
+802,10000047,Computer Printer (Printing),600,0.01,false,0.0
+803,10000047,DVD,60,0.167,false,0.0
+804,10000047,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+805,10000047,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+806,10000047,Lighting - 60 Watt,60,0.33,false,0.0
+807,10000047,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+808,10000047,Television - 36 inch,133,0.167,false,0.0
+809,10000048,Laptop,75,0.25,true,0.5
+810,10000048,Computer Printer (Printing),600,0.01,false,0.0
+811,10000048,Lawn Mower,3000,0.01,false,0.0
+812,10000048,Microwave Oven,1500,0.01,false,0.0
+813,10000048,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+814,10000048,Lighting - 100 Watt,100,0.33,false,0.0
+815,10000048,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+816,10000048,Clothes Washer,1200,0.025,true,0.25
+817,10000048,Television - 55 inch,220,0.167,false,0.0
+818,10000048,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+819,10000048,Lighting - Halogen,90,0.33,false,0.0
+820,10000048,Hair Dryer (Hand Held),1500,0.01,true,0.25
+821,10000048,Television - 25 inch,123,0.167,false,0.0
+822,10000048,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+823,10000048,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+824,10000049,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+825,10000049,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+826,10000049,Television 42' - 50' Projection,24,0.167,false,0.0
+827,10000049,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+828,10000049,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+829,10000049,Fan (Attic),500,0.1,true,0.25
+830,10000049,Range - Small Surface Unit,1200,0.01,false,0.0
+831,10000049,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+832,10000049,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+833,10000049,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+834,10000049,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+835,10000049,Answering Machine,10,1.0,false,0.0
+836,10000049,Fax Machine,10,1.0,false,0.0
+837,10000049,Computer with Monitor,270,0.5,true,0.5
+838,10000049,Television - 25 inch,123,0.167,false,0.0
+839,10000049,Air Purifier,120,1.0,true,0.5
+840,10000049,Answering Machine,10,1.0,false,0.0
+841,10000049,Television 42' - 50' Projection,24,0.167,false,0.0
+842,10000049,Telephone - Cordless,5,1.0,false,0.0
+843,10000050,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+844,10000050,Television - 25 inch,123,0.167,false,0.0
+845,10000050,Range - Large Surface Unit,2400,0.01,false,0.0
+846,10000050,Television 42' - 50' Projection,24,0.167,false,0.0
+847,10000050,Television - 43 inch,200,0.167,false,0.0
+848,10000050,Electric Frying Pan,1500,0.01,false,0.0
+849,10000050,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+850,10000050,Fish Tank (10 Gallon),80,1.0,false,0.0
+851,10000050,Toaster,1000,0.01,false,0.0
+852,10000050,Television 42' - 50' Projection,24,0.167,false,0.0
+853,10000050,Coffee Maker,900,0.01,false,0.0
+854,10000050,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+855,10000050,Laptop,75,0.25,true,0.5
+856,10000050,Hair Dryer (Hand Held),1500,0.01,true,0.25
+857,10000050,Fan (Attic),500,0.1,true,0.25
+858,10000050,Lighting - Halogen,90,0.33,false,0.0
+859,10000050,Fax Machine,10,1.0,false,0.0
+860,10000050,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+861,10000050,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+862,10000050,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+863,10000051,Hair Dryer (Hand Held),1500,0.01,true,0.25
+864,10000051,Laptop,75,0.25,true,0.5
+865,10000051,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+866,10000051,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+867,10000051,Vacuum - Regular,1440,0.01,false,0.0
+868,10000051,Clock - Electric,3,1.0,false,0.0
+869,10000051,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+870,10000051,Clothes Washer,1200,0.025,true,0.25
+871,10000051,Television/DVD/VCR Combination,120,0.167,false,0.0
+872,10000051,Fan (Window),200,0.25,false,0.0
+873,10000051,Air Purifier,120,1.0,true,0.5
+874,10000051,Clock - Electric,3,1.0,false,0.0
+875,10000051,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+876,10000051,Answering Machine,10,1.0,false,0.0
+877,10000051,Television - 43 inch,200,0.167,false,0.0
+878,10000052,Lighting - 75 Watt,75,0.33,false,0.0
+879,10000052,VCR,45,0.05,false,0.0
+880,10000052,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+881,10000052,Clothes Dryer - Electric,5000,0.05,true,0.25
+882,10000052,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+883,10000052,Television - 27 inch,125,0.167,false,0.0
+884,10000052,Television - 55 inch,220,0.167,false,0.0
+885,10000052,Lighting - 100 Watt,100,0.33,false,0.0
+886,10000052,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+887,10000052,Air Purifier,120,1.0,true,0.5
+888,10000052,Laptop,75,0.25,true,0.5
+889,10000052,Television - 13 inch,60,0.167,false,0.0
+890,10000052,Toaster,1000,0.01,false,0.0
+891,10000052,Television - 13 inch,60,0.167,false,0.0
+892,10000052,DVD,60,0.167,false,0.0
+893,10000052,Clock - Electric,3,1.0,false,0.0
+894,10000052,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+895,10000052,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+896,10000052,Fan (Attic),500,0.1,true,0.25
+897,10000053,Video Game,200,0.167,false,0.0
+898,10000053,DVD,60,0.167,false,0.0
+899,10000053,Lighting - 40 Watt,40,0.33,false,0.0
+900,10000053,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+901,10000053,Telephone - Cordless,5,1.0,false,0.0
+902,10000053,Toaster Oven,1500,0.05,false,0.0
+903,10000053,Television - 19 inch,100,0.167,false,0.0
+904,10000053,Range - Small Surface Unit,1200,0.01,false,0.0
+905,10000053,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+906,10000053,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+907,10000053,Telephone - Cordless,5,1.0,false,0.0
+908,10000053,Television - 13 inch,60,0.167,false,0.0
+909,10000053,Clock - Electric,3,1.0,false,0.0
+910,10000053,Television - 36 inch,133,0.167,false,0.0
+911,10000053,Computer with Monitor,270,0.5,true,0.5
+912,10000053,Vacuum - Regular,1440,0.01,false,0.0
+913,10000053,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+914,10000054,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+915,10000054,Television - 27 inch,125,0.167,false,0.0
+916,10000054,Fan,200,0.1,false,0.0
+917,10000054,Television Plasma 42' - 50',375,0.167,false,0.0
+918,10000054,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+919,10000054,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+920,10000054,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+921,10000054,Stereo,75,0.25,false,0.0
+922,10000054,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+923,10000054,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+924,10000054,Iron,1100,0.01,false,0.0
+925,10000054,Oven,5000,0.01,false,0.0
+926,10000054,Fan (Attic),500,0.1,true,0.25
+927,10000054,Toaster Oven,1500,0.05,false,0.0
+928,10000054,Lighting - 40 Watt,40,0.33,false,0.0
+929,10000054,Television - 27 inch,125,0.167,false,0.0
+930,10000054,Television - 27 inch,125,0.167,false,0.0
+931,10000054,Television - 19 inch,100,0.167,false,0.0
+932,10000054,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+933,10000054,Range - Small Surface Unit,1200,0.01,false,0.0
+934,10000055,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+935,10000055,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+936,10000055,Television - 32 inch,130,0.167,false,0.0
+937,10000055,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+938,10000055,Stereo,75,0.25,false,0.0
+939,10000055,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+940,10000055,Television 42' - 50' Projection,24,0.167,false,0.0
+941,10000055,Lighting - Halogen,90,0.33,false,0.0
+942,10000055,Toaster,1000,0.01,false,0.0
+943,10000055,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+944,10000055,Television - 27 inch,125,0.167,false,0.0
+945,10000055,Clock - Electric,3,1.0,false,0.0
+946,10000055,Fish Tank (10 Gallon),80,1.0,false,0.0
+947,10000055,Television - 13 inch,60,0.167,false,0.0
+948,10000055,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+949,10000055,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+950,10000055,Lighting - 40 Watt,40,0.33,false,0.0
+951,10000056,Stereo,75,0.25,false,0.0
+952,10000056,Television - 32 inch,130,0.167,false,0.0
+953,10000056,Range - Small Surface Unit,1200,0.01,false,0.0
+954,10000056,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+955,10000056,Microwave Oven,1500,0.01,false,0.0
+956,10000056,Computer Printer (Printing),600,0.01,false,0.0
+957,10000056,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+958,10000056,Television - 60 inch,240,0.167,false,0.0
+959,10000056,Television - 25 inch,123,0.167,false,0.0
+960,10000056,Video Game,200,0.167,false,0.0
+961,10000056,Lighting - 100 Watt,100,0.33,false,0.0
+962,10000056,Television 42' - 50' Projection,24,0.167,false,0.0
+963,10000056,Stereo,75,0.25,false,0.0
+964,10000056,Television - 36 inch,133,0.167,false,0.0
+965,10000056,Fan,200,0.1,false,0.0
+966,10000056,Hair Dryer (Hand Held),1500,0.01,true,0.25
+967,10000056,Fan,200,0.1,false,0.0
+968,10000056,Clothes Dryer - Electric,5000,0.05,true,0.25
+969,10000057,Television - 19 inch,100,0.167,false,0.0
+970,10000057,VCR,45,0.05,false,0.0
+971,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+972,10000057,Toaster,1000,0.01,false,0.0
+973,10000057,Clock - Electric,3,1.0,false,0.0
+974,10000057,Computer with Monitor,270,0.5,true,0.5
+975,10000057,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+976,10000057,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+977,10000057,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+978,10000057,Lighting - 100 Watt,100,0.33,false,0.0
+979,10000057,Lawn Mower,3000,0.01,false,0.0
+980,10000057,Television - 27 inch,125,0.167,false,0.0
+981,10000057,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+982,10000057,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+983,10000057,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+984,10000058,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+985,10000058,Coffee Maker,900,0.01,false,0.0
+986,10000058,Toaster Oven,1500,0.05,false,0.0
+987,10000058,Telephone - Cordless,5,1.0,false,0.0
+988,10000058,Stereo,75,0.25,false,0.0
+989,10000058,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+990,10000058,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+991,10000058,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+992,10000058,Fan,200,0.1,false,0.0
+993,10000058,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+994,10000058,Vacuum - Regular,1440,0.01,false,0.0
+995,10000058,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+996,10000058,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+997,10000058,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+998,10000058,Television - 60 inch,240,0.167,false,0.0
+999,10000058,Lighting - 75 Watt,75,0.33,false,0.0
+1000,10000058,Answering Machine,10,1.0,false,0.0
+1001,10000058,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1002,10000059,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+1003,10000059,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1004,10000059,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1005,10000059,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1006,10000059,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+1007,10000059,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1008,10000059,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+1009,10000059,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1010,10000059,Television - 43 inch,200,0.167,false,0.0
+1011,10000059,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1012,10000059,Lawn Mower,3000,0.01,false,0.0
+1013,10000059,Television - 32 inch,130,0.167,false,0.0
+1014,10000059,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+1015,10000059,Television - 19 inch,100,0.167,false,0.0
+1016,10000059,Fan (Attic),500,0.1,true,0.25
+1017,10000059,Clothes Dryer - Electric,5000,0.05,true,0.25
+1018,10000059,Electric Frying Pan,1500,0.01,false,0.0
+1019,10000060,Clothes Dryer - Electric,5000,0.05,true,0.25
+1020,10000060,Laptop,75,0.25,true,0.5
+1021,10000060,Fan,200,0.1,false,0.0
+1022,10000060,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1023,10000060,Lighting - 60 Watt,60,0.33,false,0.0
+1024,10000060,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+1025,10000060,Microwave Oven,1500,0.01,false,0.0
+1026,10000060,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1027,10000060,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+1028,10000060,Lighting - 100 Watt,100,0.33,false,0.0
+1029,10000060,Television - 55 inch,220,0.167,false,0.0
+1030,10000060,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1031,10000060,Fan,200,0.1,false,0.0
+1032,10000060,Fan (Attic),500,0.1,true,0.25
+1033,10000060,Fish Tank (10 Gallon),80,1.0,false,0.0
+1034,10000060,Lawn Mower,3000,0.01,false,0.0
+1035,10000060,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1036,10000060,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+1037,10000061,VCR,45,0.05,false,0.0
+1038,10000061,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+1039,10000061,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+1040,10000061,Television - 60 inch,240,0.167,false,0.0
+1041,10000061,Stereo,75,0.25,false,0.0
+1042,10000061,Television - 13 inch,60,0.167,false,0.0
+1043,10000061,Microwave Oven,1500,0.01,false,0.0
+1044,10000061,Iron,1100,0.01,false,0.0
+1045,10000061,Computer with Monitor,270,0.5,true,0.5
+1046,10000061,Iron,1100,0.01,false,0.0
+1047,10000061,Television - 60 inch,240,0.167,false,0.0
+1048,10000061,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1049,10000061,Telephone - Cordless,5,1.0,false,0.0
+1050,10000061,Microwave Oven,1500,0.01,false,0.0
+1051,10000061,Lawn Mower,3000,0.01,false,0.0
+1052,10000062,Television - 43 inch,200,0.167,false,0.0
+1053,10000062,Lighting - 40 Watt,40,0.33,false,0.0
+1054,10000062,Computer Printer (Printing),600,0.01,false,0.0
+1055,10000062,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1056,10000062,DVD,60,0.167,false,0.0
+1057,10000062,Fan,200,0.1,false,0.0
+1058,10000062,Range - Large Surface Unit,2400,0.01,false,0.0
+1059,10000062,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1060,10000062,Lighting - 100 Watt,100,0.33,false,0.0
+1061,10000062,Lighting - 75 Watt,75,0.33,false,0.0
+1062,10000062,Telephone - Cordless,5,1.0,false,0.0
+1063,10000062,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1064,10000062,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1065,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1066,10000062,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1067,10000062,Television - 60 inch,240,0.167,false,0.0
+1068,10000062,Slow Cooker,200,0.05,false,0.0
+1069,10000062,Television - 25 inch,123,0.167,false,0.0
+1070,10000063,Fax Machine,10,1.0,false,0.0
+1071,10000063,Slow Cooker,200,0.05,false,0.0
+1072,10000063,Fan (Attic),500,0.1,true,0.25
+1073,10000063,Fan (Window),200,0.25,false,0.0
+1074,10000063,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1075,10000063,Television 42' - 50' Projection,24,0.167,false,0.0
+1076,10000063,Laptop,75,0.25,true,0.5
+1077,10000063,Television - 60 inch,240,0.167,false,0.0
+1078,10000063,Vacuum - Regular,1440,0.01,false,0.0
+1079,10000063,Television - 13 inch,60,0.167,false,0.0
+1080,10000063,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1081,10000063,Television - 13 inch,60,0.167,false,0.0
+1082,10000063,Fan (Window),200,0.25,false,0.0
+1083,10000063,Range - Small Surface Unit,1200,0.01,false,0.0
+1084,10000063,VCR,45,0.05,false,0.0
+1085,10000063,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+1086,10000063,Television - 13 inch,60,0.167,false,0.0
+1087,10000063,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1088,10000064,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1089,10000064,Electric Frying Pan,1500,0.01,false,0.0
+1090,10000064,Fish Tank (50 Gallon),230,1.0,false,0.0
+1091,10000064,Laptop,75,0.25,true,0.5
+1092,10000064,Lighting - 40 Watt,40,0.33,false,0.0
+1093,10000064,Electric Frying Pan,1500,0.01,false,0.0
+1094,10000064,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+1095,10000064,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+1096,10000064,Lighting - Halogen,90,0.33,false,0.0
+1097,10000064,Compactor (Trash),400,0.01,false,0.0
+1098,10000064,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+1099,10000064,Telephone - Cordless,5,1.0,false,0.0
+1100,10000064,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1101,10000064,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1102,10000064,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+1103,10000064,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+1104,10000064,Fish Tank (50 Gallon),230,1.0,false,0.0
+1105,10000064,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+1106,10000064,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1107,10000065,Television - 55 inch,220,0.167,false,0.0
+1108,10000065,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1109,10000065,Compactor (Trash),400,0.01,false,0.0
+1110,10000065,Oven,5000,0.01,false,0.0
+1111,10000065,Toaster Oven,1500,0.05,false,0.0
+1112,10000065,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1113,10000065,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1114,10000065,Television - 55 inch,220,0.167,false,0.0
+1115,10000065,Television - 43 inch,200,0.167,false,0.0
+1116,10000065,Television - 25 inch,123,0.167,false,0.0
+1117,10000065,Clothes Washer,1200,0.025,true,0.25
+1118,10000065,Compactor (Trash),400,0.01,false,0.0
+1119,10000065,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1120,10000065,Lighting - 75 Watt,75,0.33,false,0.0
+1121,10000065,Toaster,1000,0.01,false,0.0
+1122,10000065,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1123,10000066,Television - 55 inch,220,0.167,false,0.0
+1124,10000066,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+1125,10000066,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1126,10000066,Laptop,75,0.25,true,0.5
+1127,10000066,Toaster Oven,1500,0.05,false,0.0
+1128,10000066,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1129,10000066,Bug Killer,40,0.5,false,0.0
+1130,10000066,Television Plasma 42' - 50',375,0.167,false,0.0
+1131,10000066,Microwave Oven,1500,0.01,false,0.0
+1132,10000066,Coffee Maker,900,0.01,false,0.0
+1133,10000066,Lighting - 75 Watt,75,0.33,false,0.0
+1134,10000066,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+1135,10000066,Telephone - Cordless,5,1.0,false,0.0
+1136,10000066,Lawn Mower,3000,0.01,false,0.0
+1137,10000066,Television - 32 inch,130,0.167,false,0.0
+1138,10000067,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+1139,10000067,Stereo,75,0.25,false,0.0
+1140,10000067,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1141,10000067,Television - 60 inch,240,0.167,false,0.0
+1142,10000067,Oven,5000,0.01,false,0.0
+1143,10000067,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1144,10000067,Range - Large Surface Unit,2400,0.01,false,0.0
+1145,10000067,Bug Killer,40,0.5,false,0.0
+1146,10000067,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1147,10000067,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1148,10000067,Television - 55 inch,220,0.167,false,0.0
+1149,10000067,Fax Machine,10,1.0,false,0.0
+1150,10000067,Television - 13 inch,60,0.167,false,0.0
+1151,10000067,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+1152,10000067,Hair Dryer (Hand Held),1500,0.01,true,0.25
+1153,10000067,Telephone - Cordless,5,1.0,false,0.0
+1154,10000067,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+1155,10000067,VCR,45,0.05,false,0.0
+1156,10000067,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1157,10000067,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1158,10000068,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1159,10000068,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+1160,10000068,Lighting - Halogen,90,0.33,false,0.0
+1161,10000068,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1162,10000068,Coffee Maker,900,0.01,false,0.0
+1163,10000068,Television - 36 inch,133,0.167,false,0.0
+1164,10000068,Television - 32 inch,130,0.167,false,0.0
+1165,10000068,Vacuum - Regular,1440,0.01,false,0.0
+1166,10000068,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+1167,10000068,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+1168,10000068,Lighting - 75 Watt,75,0.33,false,0.0
+1169,10000068,Video Game,200,0.167,false,0.0
+1170,10000068,Air Purifier,120,1.0,true,0.5
+1171,10000068,Bug Killer,40,0.5,false,0.0
+1172,10000068,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+1173,10000068,Ceiling Fan w/o light,50,0.25,false,0.0
+1174,10000068,Answering Machine,10,1.0,false,0.0
+1175,10000069,Range - Large Surface Unit,2400,0.01,false,0.0
+1176,10000069,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1177,10000069,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1178,10000069,Stereo,75,0.25,false,0.0
+1179,10000069,Toaster Oven,1500,0.05,false,0.0
+1180,10000069,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1181,10000069,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+1182,10000069,Vacuum - Regular,1440,0.01,false,0.0
+1183,10000069,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+1184,10000069,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1185,10000069,Television - 36 inch,133,0.167,false,0.0
+1186,10000069,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1187,10000069,Television Plasma 42' - 50',375,0.167,false,0.0
+1188,10000069,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1189,10000069,Computer Printer (Printing),600,0.01,false,0.0
+1190,10000069,Television - 25 inch,123,0.167,false,0.0
+1191,10000069,Fan,200,0.1,false,0.0
+1192,10000069,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1193,10000069,Television 42' - 50' Projection,24,0.167,false,0.0
+1194,10000070,VCR,45,0.05,false,0.0
+1195,10000070,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1196,10000070,Clothes Washer,1200,0.025,true,0.25
+1197,10000070,Range - Large Surface Unit,2400,0.01,false,0.0
+1198,10000070,Lighting - 60 Watt,60,0.33,false,0.0
+1199,10000070,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1200,10000070,Laptop,75,0.25,true,0.5
+1201,10000070,Clock - Electric,3,1.0,false,0.0
+1202,10000070,DVD,60,0.167,false,0.0
+1203,10000070,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1204,10000070,Lighting - 60 Watt,60,0.33,false,0.0
+1205,10000070,Lighting - 100 Watt,100,0.33,false,0.0
+1206,10000070,Hair Dryer (Hand Held),1500,0.01,true,0.25
+1207,10000070,Compactor (Trash),400,0.01,false,0.0
+1208,10000070,Bug Killer,40,0.5,false,0.0
+1209,10000071,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1210,10000071,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1211,10000071,Coffee Maker,900,0.01,false,0.0
+1212,10000071,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+1213,10000071,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1214,10000071,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+1215,10000071,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1216,10000071,Television - 27 inch,125,0.167,false,0.0
+1217,10000071,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+1218,10000071,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+1219,10000071,Television - 36 inch,133,0.167,false,0.0
+1220,10000071,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1221,10000071,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1222,10000071,Lawn Mower,3000,0.01,false,0.0
+1223,10000071,Television - 19 inch,100,0.167,false,0.0
+1224,10000071,Telephone - Cordless,5,1.0,false,0.0
+1225,10000071,Clothes Dryer - Electric,5000,0.05,true,0.25
+1226,10000071,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+1227,10000071,Iron,1100,0.01,false,0.0
+1228,10000072,Lighting - 60 Watt,60,0.33,false,0.0
+1229,10000072,Answering Machine,10,1.0,false,0.0
+1230,10000072,Television - 43 inch,200,0.167,false,0.0
+1231,10000072,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1232,10000072,Telephone - Cordless,5,1.0,false,0.0
+1233,10000072,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+1234,10000072,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1235,10000072,Clothes Washer,1200,0.025,true,0.25
+1236,10000072,Vacuum - Regular,1440,0.01,false,0.0
+1237,10000072,Slow Cooker,200,0.05,false,0.0
+1238,10000072,Television - 25 inch,123,0.167,false,0.0
+1239,10000072,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+1240,10000072,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1241,10000072,Oven,5000,0.01,false,0.0
+1242,10000072,Vacuum - Regular,1440,0.01,false,0.0
+1243,10000073,DVD,60,0.167,false,0.0
+1244,10000073,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1245,10000073,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+1246,10000073,Toaster Oven,1500,0.05,false,0.0
+1247,10000073,Lawn Mower,3000,0.01,false,0.0
+1248,10000073,Lighting - 60 Watt,60,0.33,false,0.0
+1249,10000073,Toaster,1000,0.01,false,0.0
+1250,10000073,Vacuum - Regular,1440,0.01,false,0.0
+1251,10000073,Ceiling Fan w/o light,50,0.25,false,0.0
+1252,10000073,Clothes Washer,1200,0.025,true,0.25
+1253,10000073,Microwave Oven,1500,0.01,false,0.0
+1254,10000073,Lawn Mower,3000,0.01,false,0.0
+1255,10000073,Lighting - 100 Watt,100,0.33,false,0.0
+1256,10000073,Fan (Attic),500,0.1,true,0.25
+1257,10000073,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1258,10000074,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1259,10000074,Iron,1100,0.01,false,0.0
+1260,10000074,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1261,10000074,Lighting - 40 Watt,40,0.33,false,0.0
+1262,10000074,Lighting - 100 Watt,100,0.33,false,0.0
+1263,10000074,Television - 36 inch,133,0.167,false,0.0
+1264,10000074,Television 42' - 50' Projection,24,0.167,false,0.0
+1265,10000074,Coffee Maker,900,0.01,false,0.0
+1266,10000074,Clock - Electric,3,1.0,false,0.0
+1267,10000074,Television/DVD/VCR Combination,120,0.167,false,0.0
+1268,10000074,Lighting - 100 Watt,100,0.33,false,0.0
+1269,10000074,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1270,10000074,Lighting - 75 Watt,75,0.33,false,0.0
+1271,10000074,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1272,10000074,Answering Machine,10,1.0,false,0.0
+1273,10000074,Slow Cooker,200,0.05,false,0.0
+1274,10000074,Telephone - Cordless,5,1.0,false,0.0
+1275,10000074,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1276,10000074,Television - 43 inch,200,0.167,false,0.0
+1277,10000074,Compactor (Trash),400,0.01,false,0.0
+1278,10000075,Clock - Electric,3,1.0,false,0.0
+1279,10000075,Compactor (Trash),400,0.01,false,0.0
+1280,10000075,Computer with Monitor,270,0.5,true,0.5
+1281,10000075,Television - 27 inch,125,0.167,false,0.0
+1282,10000075,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1283,10000075,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1284,10000075,Answering Machine,10,1.0,false,0.0
+1285,10000075,Bug Killer,40,0.5,false,0.0
+1286,10000075,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1287,10000075,Television/DVD/VCR Combination,120,0.167,false,0.0
+1288,10000075,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1289,10000075,Television - 25 inch,123,0.167,false,0.0
+1290,10000075,Compactor (Trash),400,0.01,false,0.0
+1291,10000075,Clothes Washer,1200,0.025,true,0.25
+1292,10000075,Ceiling Fan with 3 - 60 Watt Bulbs,230,0.25,false,0.0
+1293,10000075,Fan (Attic),500,0.1,true,0.25
+1294,10000076,Fish Tank (10 Gallon),80,1.0,false,0.0
+1295,10000076,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+1296,10000076,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1297,10000076,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1298,10000076,Air Purifier,120,1.0,true,0.5
+1299,10000076,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+1300,10000076,Air Purifier,120,1.0,true,0.5
+1301,10000076,Television - 19 inch,100,0.167,false,0.0
+1302,10000076,Coffee Maker,900,0.01,false,0.0
+1303,10000076,Fan (Window),200,0.25,false,0.0
+1304,10000076,Air Purifier,120,1.0,true,0.5
+1305,10000076,Television - 27 inch,125,0.167,false,0.0
+1306,10000076,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1307,10000076,Television - 32 inch,130,0.167,false,0.0
+1308,10000076,Television - 36 inch,133,0.167,false,0.0
+1309,10000076,Lighting - 60 Watt,60,0.33,false,0.0
+1310,10000076,Computer with Monitor,270,0.5,true,0.5
+1311,10000077,Range - Large Surface Unit,2400,0.01,false,0.0
+1312,10000077,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1313,10000077,Toaster Oven,1500,0.05,false,0.0
+1314,10000077,Answering Machine,10,1.0,false,0.0
+1315,10000077,Hair Dryer (Hand Held),1500,0.01,true,0.25
+1316,10000077,Oven,5000,0.01,false,0.0
+1317,10000077,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1318,10000077,Television - 60 inch,240,0.167,false,0.0
+1319,10000077,DVD,60,0.167,false,0.0
+1320,10000077,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+1321,10000077,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+1322,10000077,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+1323,10000077,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1324,10000077,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+1325,10000077,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+1326,10000077,Video Game,200,0.167,false,0.0
+1327,10000077,Television - 36 inch,133,0.167,false,0.0
+1328,10000078,Laptop,75,0.25,true,0.5
+1329,10000078,DVD,60,0.167,false,0.0
+1330,10000078,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1331,10000078,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+1332,10000078,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1333,10000078,Coffee Maker,900,0.01,false,0.0
+1334,10000078,Lighting - 60 Watt,60,0.33,false,0.0
+1335,10000078,Fan (Attic),500,0.1,true,0.25
+1336,10000078,Clothes Dryer - Electric,5000,0.05,true,0.25
+1337,10000078,Air Purifier,120,1.0,true,0.5
+1338,10000078,Lighting - 100 Watt,100,0.33,false,0.0
+1339,10000078,Television - 43 inch,200,0.167,false,0.0
+1340,10000078,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1341,10000078,Refrigerator - 14 cu. ft.,226,1.0,true,0.25
+1342,10000078,Television - 43 inch,200,0.167,false,0.0
+1343,10000078,Stereo,75,0.25,false,0.0
+1344,10000078,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1345,10000078,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1346,10000078,Television Plasma 42' - 50',375,0.167,false,0.0
+1347,10000078,Television Plasma 42' - 50',375,0.167,false,0.0
+1348,10000079,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1349,10000079,Computer with Monitor,270,0.5,true,0.5
+1350,10000079,Coffee Maker,900,0.01,false,0.0
+1351,10000079,Compactor (Trash),400,0.01,false,0.0
+1352,10000079,Fish Tank (50 Gallon),230,1.0,false,0.0
+1353,10000079,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1354,10000079,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1355,10000079,Computer Printer (Printing),600,0.01,false,0.0
+1356,10000079,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1357,10000079,Fan (Window),200,0.25,false,0.0
+1358,10000079,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1359,10000079,Television - 19 inch,100,0.167,false,0.0
+1360,10000079,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1361,10000079,Stereo,75,0.25,false,0.0
+1362,10000079,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1363,10000080,Coffee Maker,900,0.01,false,0.0
+1364,10000080,Laptop,75,0.25,true,0.5
+1365,10000080,Ceiling Fan w/o light,50,0.25,false,0.0
+1366,10000080,Bug Killer,40,0.5,false,0.0
+1367,10000080,Range - Small Surface Unit,1200,0.01,false,0.0
+1368,10000080,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+1369,10000080,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1370,10000080,Video Game,200,0.167,false,0.0
+1371,10000080,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1372,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1373,10000080,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+1374,10000080,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1375,10000080,Ceiling Fan w/o light,50,0.25,false,0.0
+1376,10000080,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1377,10000080,Television - 55 inch,220,0.167,false,0.0
+1378,10000080,Television - 43 inch,200,0.167,false,0.0
+1379,10000081,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1380,10000081,Toaster Oven,1500,0.05,false,0.0
+1381,10000081,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+1382,10000081,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1383,10000081,Television - 27 inch,125,0.167,false,0.0
+1384,10000081,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1385,10000081,Answering Machine,10,1.0,false,0.0
+1386,10000081,Bug Killer,40,0.5,false,0.0
+1387,10000081,Television - 43 inch,200,0.167,false,0.0
+1388,10000081,Microwave Oven,1500,0.01,false,0.0
+1389,10000081,Compactor (Trash),400,0.01,false,0.0
+1390,10000081,Compactor (Trash),400,0.01,false,0.0
+1391,10000081,Clothes Dryer - Electric,5000,0.05,true,0.25
+1392,10000081,Television - 32 inch,130,0.167,false,0.0
+1393,10000081,Television Plasma 42' - 50',375,0.167,false,0.0
+1394,10000081,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1395,10000082,Lighting - 60 Watt,60,0.33,false,0.0
+1396,10000082,Toaster Oven,1500,0.05,false,0.0
+1397,10000082,Bug Killer,40,0.5,false,0.0
+1398,10000082,DVD,60,0.167,false,0.0
+1399,10000082,Vacuum - Regular,1440,0.01,false,0.0
+1400,10000082,Compactor (Trash),400,0.01,false,0.0
+1401,10000082,Television - 19 inch,100,0.167,false,0.0
+1402,10000082,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1403,10000082,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1404,10000082,Hair Dryer (Hand Held),1500,0.01,true,0.25
+1405,10000082,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1406,10000082,Lighting - 40 Watt,40,0.33,false,0.0
+1407,10000082,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1408,10000082,Stereo,75,0.25,false,0.0
+1409,10000082,Lighting - 100 Watt,100,0.33,false,0.0
+1410,10000082,Compactor (Trash),400,0.01,false,0.0
+1411,10000082,Oven,5000,0.01,false,0.0
+1412,10000082,Television - 60 inch,240,0.167,false,0.0
+1413,10000082,Lighting - 40 Watt,40,0.33,false,0.0
+1414,10000082,Lighting - 100 Watt,100,0.33,false,0.0
+1415,10000083,Compactor (Trash),400,0.01,false,0.0
+1416,10000083,Television - 25 inch,123,0.167,false,0.0
+1417,10000083,Television - 25 inch,123,0.167,false,0.0
+1418,10000083,Slow Cooker,200,0.05,false,0.0
+1419,10000083,Air Purifier,120,1.0,true,0.5
+1420,10000083,Fish Tank (10 Gallon),80,1.0,false,0.0
+1421,10000083,VCR,45,0.05,false,0.0
+1422,10000083,Electric Frying Pan,1500,0.01,false,0.0
+1423,10000083,Fish Tank (10 Gallon),80,1.0,false,0.0
+1424,10000083,Coffee Maker,900,0.01,false,0.0
+1425,10000083,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1426,10000083,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+1427,10000083,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1428,10000083,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1429,10000083,Lighting - 60 Watt,60,0.33,false,0.0
+1430,10000083,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1431,10000083,Fax Machine,10,1.0,false,0.0
+1432,10000083,Stereo,75,0.25,false,0.0
+1433,10000083,Bug Killer,40,0.5,false,0.0
+1434,10000083,Coffee Maker,900,0.01,false,0.0
+1435,10000084,Lighting - 60 Watt,60,0.33,false,0.0
+1436,10000084,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+1437,10000084,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1438,10000084,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1439,10000084,Lighting - 100 Watt,100,0.33,false,0.0
+1440,10000084,Fan,200,0.1,false,0.0
+1441,10000084,Television - 60 inch,240,0.167,false,0.0
+1442,10000084,Vacuum - Regular,1440,0.01,false,0.0
+1443,10000084,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1444,10000084,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+1445,10000084,Computer Printer (Printing),600,0.01,false,0.0
+1446,10000084,Television/DVD/VCR Combination,120,0.167,false,0.0
+1447,10000084,Clothes Washer,1200,0.025,true,0.25
+1448,10000084,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1449,10000084,Television - 32 inch,130,0.167,false,0.0
+1450,10000084,Lighting - 40 Watt,40,0.33,false,0.0
+1451,10000084,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1452,10000085,Computer Printer (Printing),600,0.01,false,0.0
+1453,10000085,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1454,10000085,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1455,10000085,Hair Dryer (Hand Held),1500,0.01,true,0.25
+1456,10000085,VCR,45,0.05,false,0.0
+1457,10000085,Fan (Attic),500,0.1,true,0.25
+1458,10000085,Lighting - 40 Watt,40,0.33,false,0.0
+1459,10000085,Coffee Maker,900,0.01,false,0.0
+1460,10000085,Vacuum - Regular,1440,0.01,false,0.0
+1461,10000085,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1462,10000085,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1463,10000085,Lighting - 40 Watt,40,0.33,false,0.0
+1464,10000085,Computer with Monitor,270,0.5,true,0.5
+1465,10000085,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1466,10000085,Bug Killer,40,0.5,false,0.0
+1467,10000085,Fish Tank (50 Gallon),230,1.0,false,0.0
+1468,10000085,Lighting - Halogen,90,0.33,false,0.0
+1469,10000086,DVD,60,0.167,false,0.0
+1470,10000086,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1471,10000086,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+1472,10000086,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1473,10000086,Television - 27 inch,125,0.167,false,0.0
+1474,10000086,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1475,10000086,Answering Machine,10,1.0,false,0.0
+1476,10000086,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+1477,10000086,Lighting - 100 Watt,100,0.33,false,0.0
+1478,10000086,Range - Large Surface Unit,2400,0.01,false,0.0
+1479,10000086,Toaster,1000,0.01,false,0.0
+1480,10000086,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+1481,10000086,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1482,10000086,Lighting - 3 rooms (8 60W),480,0.167,false,0.0
+1483,10000086,Television Plasma 42' - 50',375,0.167,false,0.0
+1484,10000086,Computer with Monitor,270,0.5,true,0.5
+1485,10000086,Television - 19 inch,100,0.167,false,0.0
+1486,10000086,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1487,10000086,Fax Machine,10,1.0,false,0.0
+1488,10000087,DVD,60,0.167,false,0.0
+1489,10000087,Range - Large Surface Unit,2400,0.01,false,0.0
+1490,10000087,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+1491,10000087,Lighting - 75 Watt,75,0.33,false,0.0
+1492,10000087,Fish Tank (10 Gallon),80,1.0,false,0.0
+1493,10000087,Fan,200,0.1,false,0.0
+1494,10000087,Clock - Electric,3,1.0,false,0.0
+1495,10000087,Fan (Window),200,0.25,false,0.0
+1496,10000087,Coffee Maker,900,0.01,false,0.0
+1497,10000087,Hair Dryer (Hand Held),1500,0.01,true,0.25
+1498,10000087,Fish Tank (50 Gallon),230,1.0,false,0.0
+1499,10000087,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1500,10000087,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1501,10000087,Lighting - 60 Watt,60,0.33,false,0.0
+1502,10000087,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1503,10000087,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1504,10000087,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+1505,10000088,Television Plasma 42' - 50',375,0.167,false,0.0
+1506,10000088,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+1507,10000088,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1508,10000088,Stereo,75,0.25,false,0.0
+1509,10000088,Toaster Oven,1500,0.05,false,0.0
+1510,10000088,Hair Dryer (Hand Held),1500,0.01,true,0.25
+1511,10000088,Television - 55 inch,220,0.167,false,0.0
+1512,10000088,Television - 43 inch,200,0.167,false,0.0
+1513,10000088,Clothes Washer,1200,0.025,true,0.25
+1514,10000088,Range - Large Surface Unit,2400,0.01,false,0.0
+1515,10000088,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1516,10000088,Lighting - 40 Watt,40,0.33,false,0.0
+1517,10000088,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1518,10000088,Television/DVD/VCR Combination,120,0.167,false,0.0
+1519,10000088,Fan (Window),200,0.25,false,0.0
+1520,10000089,Clothes Washer,1200,0.025,true,0.25
+1521,10000089,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1522,10000089,Bug Killer,40,0.5,false,0.0
+1523,10000089,Clothes Dryer - Electric,5000,0.05,true,0.25
+1524,10000089,Lighting - 60 Watt,60,0.33,false,0.0
+1525,10000089,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1526,10000089,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1527,10000089,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+1528,10000089,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+1529,10000089,Air Purifier,120,1.0,true,0.5
+1530,10000089,Slow Cooker,200,0.05,false,0.0
+1531,10000089,Microwave Oven,1500,0.01,false,0.0
+1532,10000089,Fish Tank (50 Gallon),230,1.0,false,0.0
+1533,10000089,Computer Printer (Printing),600,0.01,false,0.0
+1534,10000089,Video Game,200,0.167,false,0.0
+1535,10000089,Electric Frying Pan,1500,0.01,false,0.0
+1536,10000089,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1537,10000090,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+1538,10000090,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+1539,10000090,Iron,1100,0.01,false,0.0
+1540,10000090,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1541,10000090,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1542,10000090,Toaster,1000,0.01,false,0.0
+1543,10000090,Television 42' - 50' Projection,24,0.167,false,0.0
+1544,10000090,Ceiling Fan w/o light,50,0.25,false,0.0
+1545,10000090,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1546,10000090,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+1547,10000090,Exercise Equipment - Treadmill 2 H.P.,2000,0.025,false,0.0
+1548,10000090,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1549,10000090,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+1550,10000090,Clock - Electric,3,1.0,false,0.0
+1551,10000090,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1552,10000090,Lighting - 100 Watt,100,0.33,false,0.0
+1553,10000091,Lawn Mower,3000,0.01,false,0.0
+1554,10000091,Television - 27 inch,125,0.167,false,0.0
+1555,10000091,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1556,10000091,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1557,10000091,Television - 19 inch,100,0.167,false,0.0
+1558,10000091,Clothes Dryer - Electric,5000,0.05,true,0.25
+1559,10000091,Fan (Window),200,0.25,false,0.0
+1560,10000091,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1561,10000091,Television - 19 inch,100,0.167,false,0.0
+1562,10000091,Iron,1100,0.01,false,0.0
+1563,10000091,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1564,10000091,Television/DVD/VCR Combination,120,0.167,false,0.0
+1565,10000091,Refrigerator - Freezer 24 cu. ft. - Frostfree,653,1.0,true,0.25
+1566,10000091,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1567,10000091,Television/DVD/VCR Combination,120,0.167,false,0.0
+1568,10000092,Clothes Dryer - Electric,5000,0.05,true,0.25
+1569,10000092,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+1570,10000092,Television - 60 inch,240,0.167,false,0.0
+1571,10000092,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+1572,10000092,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1573,10000092,Computer Printer (Printing),600,0.01,false,0.0
+1574,10000092,Bug Killer,40,0.5,false,0.0
+1575,10000092,VCR,45,0.05,false,0.0
+1576,10000092,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1577,10000092,Television - 25 inch,123,0.167,false,0.0
+1578,10000092,Lighting - Halogen,90,0.33,false,0.0
+1579,10000092,Fan (Window),200,0.25,false,0.0
+1580,10000092,Television - 27 inch,125,0.167,false,0.0
+1581,10000092,Television Plasma 42' - 50',375,0.167,false,0.0
+1582,10000092,Fan (Window),200,0.25,false,0.0
+1583,10000093,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+1584,10000093,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1585,10000093,Lighting - 5 rooms (10 60W),600,0.167,false,0.0
+1586,10000093,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+1587,10000093,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1588,10000093,Television - 60 inch,240,0.167,false,0.0
+1589,10000093,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+1590,10000093,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1591,10000093,Laptop,75,0.25,true,0.5
+1592,10000093,Fish Tank (10 Gallon),80,1.0,false,0.0
+1593,10000093,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1594,10000093,Television - 19 inch,100,0.167,false,0.0
+1595,10000093,Clothes Washer,1200,0.025,true,0.25
+1596,10000093,Computer with Monitor,270,0.5,true,0.5
+1597,10000093,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1598,10000094,Lighting - 75 Watt,75,0.33,false,0.0
+1599,10000094,Computer Printer (Printing),600,0.01,false,0.0
+1600,10000094,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1601,10000094,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1602,10000094,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1603,10000094,DVD,60,0.167,false,0.0
+1604,10000094,Lighting - Comp Fluorescent - 23 Watt,23,0.33,false,0.0
+1605,10000094,Lawn Mower,3000,0.01,false,0.0
+1606,10000094,Fish Tank (50 Gallon),230,1.0,false,0.0
+1607,10000094,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1608,10000094,Answering Machine,10,1.0,false,0.0
+1609,10000094,Television - 32 inch,130,0.167,false,0.0
+1610,10000094,Microwave Oven,1500,0.01,false,0.0
+1611,10000094,Toaster Oven,1500,0.05,false,0.0
+1612,10000094,Video Game,200,0.167,false,0.0
+1613,10000094,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1614,10000095,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1615,10000095,Exercise Equipment - Treadmill 3 H.P.,3000,0.025,false,0.0
+1616,10000095,Television - 32 inch,130,0.167,false,0.0
+1617,10000095,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1618,10000095,Coffee Maker,900,0.01,false,0.0
+1619,10000095,Ceiling Fan w/o light,50,0.25,false,0.0
+1620,10000095,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1621,10000095,Video Game,200,0.167,false,0.0
+1622,10000095,Television - 60 inch,240,0.167,false,0.0
+1623,10000095,Lawn Mower,3000,0.01,false,0.0
+1624,10000095,Television - 25 inch,123,0.167,false,0.0
+1625,10000095,DVD,60,0.167,false,0.0
+1626,10000095,Fan (Attic),500,0.1,true,0.25
+1627,10000095,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+1628,10000095,Lighting - Comp Fluorescent - 18 Watt,18,0.33,false,0.0
+1629,10000095,Electric Frying Pan,1500,0.01,false,0.0
+1630,10000096,Toaster Oven,1500,0.05,false,0.0
+1631,10000096,Lighting - 100 Watt,100,0.33,false,0.0
+1632,10000096,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+1633,10000096,Lighting - Chandelier 5 - 40 Watt Bulbs,200,0.33,false,0.0
+1634,10000096,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1635,10000096,Electric Frying Pan,1500,0.01,false,0.0
+1636,10000096,Fan (Attic),500,0.1,true,0.25
+1637,10000096,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1638,10000096,Lawn Equipment - Hedge Trimmer,450,0.01,false,0.0
+1639,10000096,Air Conditioner - 7000 BTU,750,0.25,true,0.5
+1640,10000096,Stereo,75,0.25,false,0.0
+1641,10000096,Lighting - Halogen,90,0.33,false,0.0
+1642,10000096,Fish Tank (50 Gallon),230,1.0,false,0.0
+1643,10000096,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1644,10000096,Clothes Washer,1200,0.025,true,0.25
+1645,10000096,Electric Frying Pan,1500,0.01,false,0.0
+1646,10000096,Iron,1100,0.01,false,0.0
+1647,10000097,Lighting - 40 Watt,40,0.33,false,0.0
+1648,10000097,Ceiling Fan w/o light,50,0.25,false,0.0
+1649,10000097,Lawn Mower,3000,0.01,false,0.0
+1650,10000097,Fan (Window),200,0.25,false,0.0
+1651,10000097,VCR,45,0.05,false,0.0
+1652,10000097,Freezer - Upright/Chest 17 cu.ft. - Frostfree,600,1.0,true,0.25
+1653,10000097,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1654,10000097,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+1655,10000097,Fish Tank (50 Gallon),230,1.0,false,0.0
+1656,10000097,Lighting - 10 rooms (15 60W),900,0.167,false,0.0
+1657,10000097,Television - 27 inch,125,0.167,false,0.0
+1658,10000097,Air Conditioner - 5000 BTU,500,0.25,true,0.5
+1659,10000097,Fish Tank (50 Gallon),230,1.0,false,0.0
+1660,10000097,Television Plasma 42' - 50',375,0.167,false,0.0
+1661,10000097,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1662,10000097,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1663,10000097,Compactor (Trash),400,0.01,false,0.0
+1664,10000097,Television/DVD/VCR Combination,120,0.167,false,0.0
+1665,10000098,Refrigerator - 19 cu. ft. - Frostfree,509,1.0,true,0.25
+1666,10000098,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1667,10000098,Television - 43 inch,200,0.167,false,0.0
+1668,10000098,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1669,10000098,Range - Small Surface Unit,1200,0.01,false,0.0
+1670,10000098,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1671,10000098,Fish Tank (50 Gallon),230,1.0,false,0.0
+1672,10000098,Toaster,1000,0.01,false,0.0
+1673,10000098,Vacuum - Regular,1440,0.01,false,0.0
+1674,10000098,Vacuum - Regular,1440,0.01,false,0.0
+1675,10000098,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+1676,10000098,Lighting - 75 Watt,75,0.33,false,0.0
+1677,10000098,Clothes Washer,1200,0.025,true,0.25
+1678,10000098,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1679,10000098,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1680,10000098,Toaster Oven,1500,0.05,false,0.0
+1681,10000099,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1682,10000099,Toaster Oven,1500,0.05,false,0.0
+1683,10000099,Microwave Oven,1500,0.01,false,0.0
+1684,10000099,DVD,60,0.167,false,0.0
+1685,10000099,Vacuum - Regular,1440,0.01,false,0.0
+1686,10000099,Stereo,75,0.25,false,0.0
+1687,10000099,Toaster,1000,0.01,false,0.0
+1688,10000099,Air Conditioner - 10000 BTU,1000,0.25,true,0.5
+1689,10000099,VCR,45,0.05,false,0.0
+1690,10000099,Dishwasher (With Dry Cycle),1000,0.025,true,0.25
+1691,10000099,Air Purifier,120,1.0,true,0.5
+1692,10000099,Refrigerator - 17 cu. ft - Frostfree,463,1.0,true,0.25
+1693,10000099,Slow Cooker,200,0.05,false,0.0
+1694,10000099,Television - 19 inch,100,0.167,false,0.0
+1695,10000099,Coffee Maker,900,0.01,false,0.0
+1696,10000099,Lighting - 7 rooms (12 60W),720,0.167,false,0.0
+1697,10000099,Toaster,1000,0.01,false,0.0
+1698,10000099,Television - 60 inch,240,0.167,false,0.0
+1699,10000099,Television/DVD/VCR Combination,120,0.167,false,0.0
+1700,10000099,Toaster,1000,0.01,false,0.0
+1701,10000100,Oven,5000,0.01,false,0.0
+1702,10000100,Lighting - 100 Watt,100,0.33,false,0.0
+1703,10000100,Lighting - 100 Watt,100,0.33,false,0.0
+1704,10000100,Air Purifier,120,1.0,true,0.5
+1705,10000100,Laptop,75,0.25,true,0.5
+1706,10000100,Dishwasher (Without Dry Cycle),200,0.025,true,0.25
+1707,10000100,Slow Cooker,200,0.05,false,0.0
+1708,10000100,Lawn Equipment - Weed Eater,500,0.01,false,0.0
+1709,10000100,Television - 43 inch,200,0.167,false,0.0
+1710,10000100,Refrigerator - 14 cu. ft. - Frostfree,383,1.0,true,0.25
+1711,10000100,Vacuum - Regular,1440,0.01,false,0.0
+1712,10000100,Telephone - Cordless,5,1.0,false,0.0
+1713,10000100,Refrigerator - Freezer 25 cu. ft. - Side by Side,841,1.0,true,0.25
+1714,10000100,Toaster Oven,1500,0.05,false,0.0
+1715,10000100,Fish Tank (10 Gallon),80,1.0,false,0.0
+1716,10000100,Refrigerator - 1.7 cu. ft.,126,1.0,true,0.25
+1717,10000100,Lighting - Fluorescent 2 bulb,100,0.33,false,0.0
+1718,10000100,DVD,60,0.167,false,0.0
+1719,10000100,Fish Tank (10 Gallon),80,1.0,false,0.0
